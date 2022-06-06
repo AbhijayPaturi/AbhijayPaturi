@@ -6,7 +6,6 @@
 - Frontend web development (Vue.js)
 - Docker
 - Deep Learning
-### Hi there 👋
 
 <h1>Hi There, I'm Abhijay Paturi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
