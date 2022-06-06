@@ -9,7 +9,7 @@
 
 <h1>Hi There, I'm Abhijay Paturi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Junior** at the University of Southern California double majoring in **Economics and Data Science** (🎓 May 2024).
+<div align="center">I'm a **Junior** at the University of Southern California double majoring in **Economics and Data Science** (🎓 May 2024). </div>
 
 Here are some ideas to get you started:
 
