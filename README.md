@@ -1,4 +1,7 @@
 <h1 align="center"><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="75px">, I'm Abhijay</h1>
+
+<h1 align="left">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="75px">, I'm</h1>
+<h2 align="left"><strong>Abhijay Paturi</strong></h2>
 <h3 align="center">Junior at the University of Southern California double majoring in Economics and Data Science (🎓 May 2024)</h3>
 
 ## 💬 Ask me about
