@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Abhijay</h1>
+<h3 align="center">A junior at USC double majoring in Economics and Data Science (Graduation: May 2024)</h3>
+
+## 💬 Ask me about
+- Backend web development
+- Frontend web development (Vue.js)
+- Docker
+- Deep Learning
 ### Hi there 👋
 
 
