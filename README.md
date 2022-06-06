@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>, I'm Abhijay</h1>
+<h1 align="center">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Abhijay</h1>
 <h3 align="center">A junior at USC double majoring in Economics and Data Science (🎓 May 2024)</h3>
 
 ## 💬 Ask me about
