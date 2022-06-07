@@ -1,20 +1,18 @@
 # <p align="center">Hi, folks!<br><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="65px"><br>I'm Abhijay Paturi</p>
 
-### I've worked at Tradefull as a Data Science and BI Intern and at Affinity Solutons as a Data Science Intern, most recently. My interests lie in the intersection of economics and machine learning. Champion for serivce. 
+I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **Data Science + BI Intern** at Tradefull and **Data Science Intern** at Affinity Solutions to continue deploying **creative + scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
 ## 🎒 Academics
 - Junior @ the University of Southern California
 - Double major: Economics 📈 and Data Science 💾 
 - 🎓 May 2024
-- Current Classwork:
-  - Foundations of Data Management 🗄️
-  - Econometrics II 🧮 
-  - Macroeconomics 🌎
-  - Data Analytics 📊
 
 ## Technologies 👨‍💻
 
+## Current Learning 📖
+
 ## Connect! 🔗
+- I'm highly motivated to apply and further developed my soft + hard skills learned from previous work experiences and the dynamic academic environment at USC in novel ways with new opportunities. So, feel free to reach out to me for potential collaborations, or if you just want to say hello!
 
 <br></br>
 
