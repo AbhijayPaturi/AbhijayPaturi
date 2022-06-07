@@ -32,7 +32,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ## 🍦 Soft Skills 
 - Empathy 💗
 - Communication 📟
-- Adaptability
+- Adaptability 🦎
 - Creative Problem-solving 🧩
 - Curiosity 💭 => 💡
 - Goal Setting 🎯
