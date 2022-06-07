@@ -48,6 +48,5 @@ I'm highly motivated to apply and further develop my soft + hard skills learned 
   Email: <a href="mailto:abhipaturi@gmail.com" target="_blank"><strong>abhipaturi@gmail.com</strong></a>
 </p>
 
-<br></br>
-
+## 🔢 Fun (Statistically Significant 🌽) Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijayPaturi&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
