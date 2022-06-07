@@ -30,10 +30,12 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 - 🎓 May 2024
 
 ## 🍦 Soft Skills 
-- Communication 
-- Empathy
+- Empathy 💗
+- Communication 📟
 - Adaptability
-- Time Management
+- Creative Problem-solving 🧩
+- Curiosity 💭 => 💡
+- Goal Setting 🎯
 
 ## 🔗 Connect!
 I'm highly motivated to apply and further develop my soft + hard skills learned from previous work experiences and the dynamic academic environment at USC in novel ways with new opportunities. So, feel free to reach out to me for a potential collaboration! If not, come say Hi!
