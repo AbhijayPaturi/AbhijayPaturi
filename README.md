@@ -2,10 +2,10 @@
 
 I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **Data Science + BI Intern** at Tradefull and **Data Science Intern** at Affinity Solutions to continue deploying **creative + scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
-## 📖 Current Learning
+## 📖 Current Learning/Reading
 - Data Science with Python Career Track in [Datacamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
 - Tableau Training with [Simplilearn](https://www.simplilearn.com/)
-- Refresher on A/B Testing
+- [The Lincoln Highway: A Novel](https://www.amortowles.com/the-lincoln-highway-about-the-book/) by Amor Towles
 
 ## 👨‍💻 Technologies 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
