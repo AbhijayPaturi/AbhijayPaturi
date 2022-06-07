@@ -6,6 +6,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 - Data Science with Python Career Track in [Datacamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
 - Tableau Training with [Simplilearn](https://www.simplilearn.com/)
 - [The Lincoln Highway: A Novel](https://www.amortowles.com/the-lincoln-highway-about-the-book/) by Amor Towles
+- <a href="https://www.amortowles.com/the-lincoln-highway-about-the-book/" target="_blank">The Lincoln Highway: A Novel</a>
 
 ## 👨‍💻 Technologies 
 
