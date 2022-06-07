@@ -31,6 +31,12 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 
 ## 🔗 Connect!
 I'm highly motivated to apply and further develop my soft + hard skills learned from previous work experiences and the dynamic academic environment at USC in novel ways with new opportunities. So, feel free to reach out to me for a potential collaboration! If not, come say Hi!
+<p align="center">
+  <a href="https://github.com/AbhijayPaturi/AbhijayPaturi" target="_blank"><img alt="Github" 
+  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/abhijay-paturi/" target="_blank"><img alt="LinkedIn" 
+  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+</p>
 
 <br></br>
 
