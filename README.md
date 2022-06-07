@@ -2,17 +2,17 @@
 
 I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **Data Science + BI Intern** at Tradefull and **Data Science Intern** at Affinity Solutions to continue deploying **creative + scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
-## Current Learning 📖
+## 📖 Current Learning
 - Data Science with Python Career Track in [Datacamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
 
-## Technologies 👨‍💻
+## 👨‍💻 Technologies 
 
 ## 🎒 Academics
 - Junior @ the University of Southern California
 - Double major: Economics 📈 and Data Science 💾 
 - 🎓 May 2024
 
-## Connect! 🔗
+## 🔗 Connect!
 I'm highly motivated to apply and further develop my soft + hard skills learned from previous work experiences and the dynamic academic environment at USC in novel ways with new opportunities. So, feel free to reach out to me for a potential collaboration! If not, come say Hi!
 
 <br></br>
