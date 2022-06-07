@@ -43,7 +43,7 @@ I'm highly motivated to apply and further develop my soft + hard skills learned 
   <a href="https://www.linkedin.com/in/abhijay-paturi/" target="_blank"><img alt="LinkedIn" 
   src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
   <br>
-  Email: <a href="mailto:abhipaturi@gmail.com"><strong>abhipaturi@gmail.com</strong></a>
+  Email: <a href="mailto:abhipaturi@gmail.com" target="_blank"><strong>abhipaturi@gmail.com</strong></a>
 </p>
 
 <br></br>
