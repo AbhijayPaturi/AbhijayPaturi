@@ -70,4 +70,4 @@ I'm highly motivated to apply and further develop my soft + hard skills learned 
 </p>
 
 ## 🌽 (Statistically Significant...) GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijayPaturi&theme=flag-india)](https://github.com/AbhijayPaturi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijayPaturi&theme=flag-india)](https://github.com/AbhijayPaturi)
