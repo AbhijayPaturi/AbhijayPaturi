@@ -44,6 +44,12 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 **Workflow Platforms**<br>
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+## 🚧 Projects 
+- [Annual Cost Of Health Insurance Premium Predictior(Python)](https://github.com/AbhijayPaturi/CostOfHealthInsurancePremiumPredictions)
+- [Warehouse Product Management System (JavaScript, HTML, CSS, PHP)](https://github.com/AbhijayPaturi/WarehouseProductManagementSystem)
+- [Evite System (Java)](https://github.com/AbhijayPaturi/EviteSystem)
+- [Virtual Restaurant Simulator (Python)](https://github.com/AbhijayPaturi/VirtualRestaurant)
+- [Restaurant Roulette App (Dart, Flutter, Xcode)](https://github.com/AbhijayPaturi/RestaurantRoulette)
 
 ## 🎒 Academics
 - Junior @ the University of Southern California
