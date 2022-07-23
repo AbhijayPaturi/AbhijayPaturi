@@ -1,4 +1,4 @@
-# <p align="center">Hi, folks!<br><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="65px"><br>I'm Abhijay Paturi</p>
+# <p align="center">Hi, folks!<br><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="65px" height="65px"><br>I'm Abhijay Paturi</p>
 
 I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **Data Science + BI Intern** at Tradefull and **Data Science Intern** at Affinity Solutions to continue deploying **creative & scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
