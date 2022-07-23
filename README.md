@@ -51,8 +51,8 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ## 🚧 Projects 
 - [Annual Cost Of Health Insurance Premium Predictior (Python)](https://github.com/AbhijayPaturi/CostOfHealthInsurancePremiumPredictions)
 - [Warehouse Product Management System (JavaScript, HTML, CSS, PHP)](https://github.com/AbhijayPaturi/WarehouseProductManagementSystem)
-- [Evite System (Java)](https://github.com/AbhijayPaturi/EviteSystem)
-- [Virtual Restaurant Simulator (Python)](https://github.com/AbhijayPaturi/VirtualRestaurant)
+- [Evite System (Java)](https://github.com/AbhijayPaturi/EviteSystem) -------------> Private, please reach out for access!
+- [Virtual Restaurant Simulator (Python)](https://github.com/AbhijayPaturi/VirtualRestaurant) -------------> Private, please reach out for access!
 - [Restaurant Roulette App (Dart, Flutter, Xcode)](https://github.com/AbhijayPaturi/RestaurantRoulette)
 
 ## 🎒 Academics
