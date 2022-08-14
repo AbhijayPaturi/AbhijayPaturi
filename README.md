@@ -25,7 +25,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Analytics**<br>
+**Visualization/Analytics**<br>
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 **Databases**<br>
