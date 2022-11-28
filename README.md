@@ -50,6 +50,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 
 ## 🚧 Projects 
 - [Annual Cost Of Health Insurance Premium Predictior (Python)](https://github.com/AbhijayPaturi/CostOfHealthInsurancePremiumPredictions)
+- [Car Analyzer (Hadoop, Spark, Python, SQL)] (https://github.com/AbhijayPaturi/CarAnalyzer)
 - [Warehouse Product Management System (JavaScript, HTML, CSS, PHP)](https://github.com/AbhijayPaturi/WarehouseProductManagementSystem)
 - [Evite System (Java)](https://github.com/AbhijayPaturi/EviteSystem) ---------> Private, please reach out for access!
 - [Restaurant Simulator (Python)](https://github.com/AbhijayPaturi/VirtualRestaurant) ---------> Private, please reach out for access!
