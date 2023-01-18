@@ -55,6 +55,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 - [Evite System (Java)](https://github.com/AbhijayPaturi/EviteSystem) ---------> Private, please reach out for access!
 - [Restaurant Simulator (Python)](https://github.com/AbhijayPaturi/VirtualRestaurant) ---------> Private, please reach out for access!
 - [Restaurant Roulette App (Dart, Flutter, Xcode)](https://github.com/AbhijayPaturi/RestaurantRoulette)
+- [Roomies App (Swift, Xcode)](https://github.com/AbhijayPaturi/Roomies) ---------> Private, please reach out for access!
 
 ## 🎒 Academics
 - Junior @ the University of Southern California
