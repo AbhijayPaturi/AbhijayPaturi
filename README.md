@@ -1,10 +1,9 @@
 # <p align="center">Hi, folks!<br><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="65px" height="65px"><br>I'm Abhijay Paturi</p>
 
-I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **Data Science + BI Intern** at Tradefull and **Data Science Intern** at Affinity Solutions to continue deploying **creative & scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
+I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **AI/ML Intern** at PartnerTap and **Data Science Intern** at Affinity Solutions to continue deploying **creative & scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
 ## 📖 Current Learning + Reading
-- Data Science with Python Career Track in [Datacamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
-- Tableau Training with [Simplilearn](https://www.simplilearn.com/)
+- [Mathematics for Machine Learning](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
 - [The Lincoln Highway: A Novel](https://www.amortowles.com/the-lincoln-highway-about-the-book/) by Amor Towles
 
 ## 👨‍💻 Technologies 
@@ -17,7 +16,6 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Python**<br>
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -31,6 +29,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 
 **Databases**<br>
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -55,6 +54,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚧 Projects 
+- [AAPL Stock Price Predictions via an LSTM Neural Network (Python/Tensorflow)](https://github.com/AbhijayPaturi/AAPLStockPricePredictionLSTM)
 - [Annual Cost Of Health Insurance Premium Predictior (Python)](https://github.com/AbhijayPaturi/CostOfHealthInsurancePremiumPredictions)
 - [Car Analyzer (Hadoop, Spark, Python, SQL)](https://github.com/AbhijayPaturi/CarAnalyzer)
 - [Warehouse Product Management System (JavaScript, HTML, CSS, PHP)](https://github.com/AbhijayPaturi/WarehouseProductManagementSystem)
@@ -64,9 +64,10 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 - [Roomies App (Swift, Xcode)](https://github.com/AbhijayPaturi/Roomies) ---------> Private, please reach out for access!
 
 ## 🎒 Academics
-- Junior @ the University of Southern California
-- Double major: Economics 📈 and Data Science 💾 
-- 🎓 May 2024
+- Senior @ the University of Southern California
+- Undergrad: B.A. Economics 📈 & B.A. Data Science 💾 
+- Grad: M.S. Applied Data Science
+- 🎓 2024
 
 ## 🍦 Soft Skills 
 - Empathy 💗
