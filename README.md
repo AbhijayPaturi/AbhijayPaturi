@@ -1,6 +1,6 @@
 # <p align="center">Hi, folks!<br><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="65px" height="65px"><br>I'm Abhijay Paturi</p>
 
-I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a **AI/ML Intern** at PartnerTap and **Data Science Intern** at Affinity Solutions to continue deploying **creative & scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
+I'm a **machine learning** enthusiast! I look forward to building on my most recent experiences as a  **Technology Consulting Intern** at **PwC**, **AI/ML Intern** at **PartnerTap**, and **Data Science Intern** at **Affinity Solutions** to continue deploying **creative & scalable models**. My commitment to **community service** is just as, if not even more, significant ( ... **statistically significant** 😉).
 
 ## 📖 Current Learning + Reading
 - [Mathematics for Machine Learning](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
