@@ -54,6 +54,7 @@ I'm a **machine learning** enthusiast! I look forward to building on my most rec
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚧 Projects 
+- [Garbage Images Classification System (Keras, Transfer Learning)](https://github.com/AbhijayPaturi/GarbageImagesClassificationSystem) ---------> Private for now, please reach out for access!
 - [AAPL Stock Price Predictions via an LSTM Neural Network (Python/Tensorflow)](https://github.com/AbhijayPaturi/AAPLStockPricePredictionLSTM)
 - [Annual Cost Of Health Insurance Premium Predictior (Python)](https://github.com/AbhijayPaturi/CostOfHealthInsurancePremiumPredictions)
 - [Car Analyzer (Hadoop, Spark, Python, SQL)](https://github.com/AbhijayPaturi/CarAnalyzer)
